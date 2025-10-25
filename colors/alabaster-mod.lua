@@ -3,7 +3,7 @@ if vim.fn.exists("syntax_on") == 1 then
     vim.cmd("syntax reset")
 end
 
-vim.g.colors_name = "alabaster"
+vim.g.colors_name = "alabaster-mod"
 
 local theme
 ---@diagnostic disable: undefined-global
