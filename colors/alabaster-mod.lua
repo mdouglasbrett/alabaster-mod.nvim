@@ -27,13 +27,13 @@ if vim.o.background == "dark" then
     vim.g.terminal_color_15 = "#ffffff"
 
     -- colors
-    local bg = "#191724"
-    local fg = "#fffaf3"
+    local bg = "#0e1415"
+    local fg = "#cecece"
     local punct_fg = "#708b8d"
     local def_fg = "#71ade7"
     local const_fg = "#c4a7e7"
     local active = "#cd974b"
-    local string_fg = "#e0def4"
+    local string_fg = "#31748f"
     local darker_fg = "#7d7d7d"
     local diffadd = "#6abf40"
     local diffdelete = "#d2322d"
