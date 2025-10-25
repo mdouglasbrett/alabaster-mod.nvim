@@ -19,7 +19,7 @@ if vim.o.background == "dark" then
     vim.g.terminal_color_7 = "#cecece"
     vim.g.terminal_color_8 = "#333333"
     vim.g.terminal_color_9 = "#c33c33"
-    vim.g.terminal_color_10 = "#95cb82"
+    vim.g.terminal_color_10 = "#31748f"
     vim.g.terminal_color_11 = "#dfdf8e"
     vim.g.terminal_color_12 = "#71aed7"
     vim.g.terminal_color_13 = "#cc8bc9"
@@ -33,7 +33,7 @@ if vim.o.background == "dark" then
     local def_fg = "#71ade7"
     local const_fg = "#c4a7e7"
     local active = "#cd974b"
-    local string_fg = "#95cb82"
+    local string_fg = "#31748f"
     local darker_fg = "#7d7d7d"
     local diffadd = "#6abf40"
     local diffdelete = "#d2322d"
@@ -54,7 +54,7 @@ if vim.o.background == "dark" then
         blue = "#71aed7",
         brightyellow = "#dfdf8e",
         cyan = "#47bea9",
-        green = "#95cb82",
+        green = "#31748f",
         magenta = "#cc8bc9",
         red = "#eb6f92",
         white = "#cecece",
