@@ -28,7 +28,7 @@ if vim.o.background == "dark" then
 
     -- colors
     local bg = "#191724"
-    local fg = "#fffaf3"
+    local fg = "#e0def4"
     local punct_fg = "#708b8d"
     local def_fg = "#71ade7"
     local const_fg = "#c4a7e7"
