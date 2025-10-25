@@ -33,7 +33,7 @@ if vim.o.background == "dark" then
     local def_fg = "#71ade7"
     local const_fg = "#c4a7e7"
     local active = "#cd974b"
-    local string_fg = "#31748f"
+    local string_fg = "#e0def4"
     local darker_fg = "#7d7d7d"
     local diffadd = "#6abf40"
     local diffdelete = "#d2322d"
